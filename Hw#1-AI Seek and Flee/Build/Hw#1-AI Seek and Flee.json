@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "AI Hw#1 - Seek and Flee",
+"dataUrl": "Hw#1-AI Seek and Flee.data.unityweb",
+"wasmCodeUrl": "Hw#1-AI Seek and Flee.wasm.code.unityweb",
+"wasmFrameworkUrl": "Hw#1-AI Seek and Flee.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
